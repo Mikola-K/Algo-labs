@@ -1,7 +1,7 @@
-# Algo labs 3
+# Algo labs 5
+
 ## Task:
     Implement a min-cut in graph
-
 ## Complexity
 - Worst case time complexity: Θ(max_flow * E)
 - Space complexity: Θ(E + V)
